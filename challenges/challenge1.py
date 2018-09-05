@@ -22,4 +22,4 @@ def sorted_list(mylist):
     return mydictionary
 
 
-print(sorted_list([2, 0, 6, 5, 1, 7, 'z', 'a']))
+
