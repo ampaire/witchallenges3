@@ -22,4 +22,5 @@ def sorted_list(mylist):
     return mydictionary
 
 
-
+mylist= [1,2,3,4,5,6,'a','b']
+print (sorted_list(mylist))
